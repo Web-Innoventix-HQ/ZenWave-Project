@@ -1,0 +1,140 @@
+ <section id="design" class="overflow-hidden bg-black background-position-center-top background-no-repeat pt-15 sm-pt-50px position-relative" >
+            <video autoplay muted loop playsinline class="position-absolute top-0 left-0 w-full h-full object-cover">
+                <source src="images/product -AirPods.mp4" type="video/mp4">
+              </video>
+            <div class="container-fluid">
+                <div class="row justify-content-center">
+                    <div class="col-xl-8 text-center position-relative sm-mb-40px" data-top-bottom="transform: scale(1); filter: opacity(1)" data-bottom-top="transform: scale(1.3); filter: opacity(0)">
+                        <span class="fs-110 md-fs-90 xs-fs-80 text-white fw-700 ls-minus-5px">A radically original composition.</span> 
+                    </div>
+                </div>
+                <div class="mt-13">
+                    <div class="row row-cols-1 justify-content-center">
+                        <!-- start carousal -->
+                        <div class="col" data-anime='{ "translateY": [0, 0], "opacity": [0,1], "duration": 1200, "delay": 50, "staggervalue": 150, "easing": "easeOutQuad" }'>
+                            <div class="swiper magic-cursor drag-cursor light" data-slider-options='{ "slidesPerView": 1, "spaceBetween": 70, "loopedSlides": true, "autoplay": { "delay": 3000, "disableOnInteraction": false }, "keyboard": { "enabled": true, "onlyInViewport": true }, "breakpoints": { "1400": { "slidesPerView":7 }, "992": { "slidesPerView": 4, "spaceBetween": 80  }, "768": { "slidesPerView": 3, "spaceBetween": 60 }, "576": { "slidesPerView": 2, "spaceBetween": 45 } }, "effect": "slide" }'>
+                                <div class="swiper-wrapper text-center">
+                                    <!-- start carousal item -->
+                                    <div class="swiper-slide d-none d-lg-block"></div>
+                                    <!-- end carousal item -->
+                                    <!-- start carousal item -->
+                                    <div class="swiper-slide"> 
+                                        <div class="overflow-hidden position-relative">
+                                            <img class="border-radius-100" src="https://via.placeholder.com/300x300" alt="" /> 
+                                        </div>
+                                        <div class="mt-25px">
+                                            <span class="text-white fs-20 lh-24 fw-600 d-block">Aluminium</span>
+                                            <span>Cups</span>
+                                        </div>  
+                                    </div>
+                                    <!-- end carousal item -->
+                                    <!-- start carousal item -->
+                                    <div class="swiper-slide"> 
+                                        <div class="overflow-hidden position-relative">
+                                            <img class="border-radius-100" src="https://via.placeholder.com/300x300" alt="" /> 
+                                        </div>  
+                                        <div class="mt-25px">
+                                            <span class="text-white fs-20 lh-24 fw-600 d-block">Stainless</span>
+                                            <span>Frame</span>
+                                        </div> 
+                                    </div>
+                                    <!-- end carousal item -->
+                                    <!-- start carousal item -->
+                                    <div class="swiper-slide"> 
+                                        <div class="overflow-hidden position-relative">
+                                            <img class="border-radius-100" src="https://via.placeholder.com/300x300" alt="" /> 
+                                        </div>  
+                                        <div class="mt-25px">
+                                            <span class="text-white fs-20 lh-24 fw-600 d-block">Canopy</span>
+                                            <span>Spanning</span>
+                                        </div>
+                                    </div>
+                                    <!-- end carousal item -->
+                                    <!-- start carousal item -->
+                                    <div class="swiper-slide"> 
+                                        <div class="overflow-hidden position-relative">
+                                            <img class="border-radius-100" src="https://via.placeholder.com/300x300" alt="" /> 
+                                        </div> 
+                                        <div class="mt-25px">
+                                            <span class="text-white fs-20 lh-24 fw-600 d-block">Mesh</span>
+                                            <span>Textile</span>
+                                        </div> 
+                                    </div>
+                                    <!-- end carousal item -->
+                                    <!-- start carousal item -->
+                                    <div class="swiper-slide"> 
+                                        <div class="overflow-hidden position-relative">
+                                            <img class="border-radius-100" src="https://via.placeholder.com/300x300" alt="" /> 
+                                        </div> 
+                                        <div class="mt-25px">
+                                            <span class="text-white fs-20 lh-24 fw-600 d-block">Digital</span>
+                                            <span>Control</span>
+                                        </div> 
+                                    </div>
+                                    <!-- end carousal item -->
+                                    <!-- start carousal item -->
+                                    <div class="swiper-slide"> 
+                                        <div class="overflow-hidden position-relative">
+                                            <img class="border-radius-100" src="https://via.placeholder.com/300x300" alt="" /> 
+                                        </div>  
+                                        <div class="mt-25px">
+                                            <span class="text-white fs-20 lh-24 fw-600 d-block">Audible</span>
+                                            <span>Range</span>
+                                        </div>
+                                    </div>
+                                    <!-- end carousal item -->
+                                    <!-- start carousal item -->
+                                    <div class="swiper-slide"> 
+                                        <div class="overflow-hidden position-relative">
+                                            <img class="border-radius-100" src="https://via.placeholder.com/300x300" alt="" /> 
+                                        </div> 
+                                        <div class="mt-25px">
+                                            <span class="text-white fs-20 lh-24 fw-600 d-block">Fidelity</span>
+                                            <span>Audio</span>
+                                        </div> 
+                                    </div>
+                                    <!-- end carousal item -->
+                                    <!-- start carousal item -->
+                                    <div class="swiper-slide"> 
+                                        <div class="overflow-hidden position-relative">
+                                            <img class="border-radius-100" src="https://via.placeholder.com/300x300" alt="" /> 
+                                        </div> 
+                                        <div class="mt-25px">
+                                            <span class="text-white fs-20 lh-24 fw-600 d-block">Canopy</span>
+                                            <span>Spanning</span>
+                                        </div> 
+                                    </div>
+                                    <!-- end carousal item -->
+                                    <!-- start carousal item -->
+                                    <div class="swiper-slide"> 
+                                        <div class="overflow-hidden position-relative">
+                                            <img class="border-radius-100" src="https://via.placeholder.com/300x300" alt="" /> 
+                                        </div> 
+                                        <div class="mt-25px">
+                                            <span class="text-white fs-20 lh-24 fw-600 d-block">Digital</span>
+                                            <span>Control</span>
+                                        </div> 
+                                    </div>
+                                    <!-- end carousal item -->
+                                    <!-- start carousal item -->
+                                    <div class="swiper-slide"> 
+                                        <div class="overflow-hidden position-relative">
+                                            <img class="border-radius-100" src="https://via.placeholder.com/300x300" alt="" /> 
+                                        </div> 
+                                        <div class="mt-25px">
+                                            <span class="text-white fs-20 lh-24 fw-600 d-block">Stainless</span>
+                                            <span>Frame</span>
+                                        </div> 
+                                    </div>
+                                    <!-- end carousal item -->
+                                    <!-- start carousal item -->
+                                    <div class="swiper-slide d-none d-lg-block"></div>
+                                    <!-- end carousal item -->
+                                </div>
+                            </div>
+                        </div>
+                        <!-- end carousal -->
+                    </div>
+                </div>
+            </div>
+        </section>
