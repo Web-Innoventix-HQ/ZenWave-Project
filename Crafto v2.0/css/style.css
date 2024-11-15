@@ -6838,22 +6838,29 @@ header.sticky .navbar-brand {
   width: 100%;
 }
  /*changes */
+.navbar-brand img {
+  width: auto;           
+  max-height: 50px;     
+}
+
 .navbar-brand .default-logo,
 .navbar-brand .alt-logo,
 .navbar-brand .mobile-logo {
-  width: 150px !important; /* Replace 150px with desired size */
-  height: 80px !important;
+  width: auto !important;
+  height: auto !important;
 }
 
 .navbar-brand {
-  width: auto !important;
-  height: 80px !important;
+  max-width: none !important;
+  height: auto !important;
 }
 
 .col-lg-2 {
   flex: 0 0 auto !important;
   max-width: none !important;
+  height: auto !important;
 }
+
 /* end */
 
 header.sticky .navbar {
